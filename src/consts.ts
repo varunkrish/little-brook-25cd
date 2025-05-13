@@ -1,5 +1,5 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = "Tera Omnni Media";
+export const SITE_TITLE = "Tera Omni Media";
 export const SITE_DESCRIPTION = "Your strategic digital partner";
